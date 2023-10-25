@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TbConfig>
+
+  <Dados>
+    <descricao>Infordata</descricao>
+    <servidor>HP\SERVER</servidor>
+    <bd>Acosterras</bd>
+  </Dados>
+  <Dados>
+    <descricao>Info</descricao>
+    <servidor>HP\SERVER</servidor>
+    <bd>Suplog</bd>
+  </Dados>
+  <Dados>
+    <descricao>d</descricao>
+    <servidor>d</servidor>
+    <bd>d</bd>
+  </Dados>
+</TbConfig>

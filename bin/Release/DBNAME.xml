@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Parametros>
+<DB>FOESS</DB>
+<DB>ISEDEF</DB>
+<DB>MOZELEC</DB>
+<DB>EMTPM</DB>
+<DB>BWT</DB>
+</Parametros>
